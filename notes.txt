@@ -1,3 +1,4 @@
 Hello Git!. This is modifying the content for checking git status. 
 Line 2
 Feature Change
+fearure 2
